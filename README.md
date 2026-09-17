@@ -12,7 +12,6 @@ The network infrastructure connects the central HQ Data Center to four factory b
 🔗 Project Links & Files (Cisco Packet Tracer / Simulation)
 Quotation Document: View Quotation
 
-    Full Report File: Cisco-Hub-and-Spoke-Network.pdf
     Full Report File: https://drive.google.com/file/d/1ZCfLZhgL7HRnSnHFzTg6WjPAOfLeP1iW/view?usp=sharing
 
 ⚙️ Core Equipment
